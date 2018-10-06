@@ -54,3 +54,11 @@ Bearer (owner) of private key and thus the money behind it.
 
 - Struggle with scalability
   - Smart consensus can alleviate this: see Proof of Stake
+
+
+
+## CryptoZombies
+
+As an introduction to the Solidity language, we'll be doing the CryptoZombies tutorial.
+
+https://cryptozombies.io
