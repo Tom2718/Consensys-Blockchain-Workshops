@@ -3,4 +3,4 @@ Workshops by UCT [CryptoSoc](https://github.com/CryptoSoc), [Zaio](https://zaio.
 
 The workshops are split into 3 sessions. 
 
-[Session 1]()
+[Session 1](https://github.com/Tom2718/Consensys-Blockchain-Workshops/blob/master/session-1.md)
